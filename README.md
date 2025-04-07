@@ -1,4 +1,3 @@
-# repo-Veronika
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -157,4 +156,3 @@
     </footer>
 </body>
 </html>
-
