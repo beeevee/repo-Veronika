@@ -131,8 +131,7 @@
     <section id="portfolio">
         <h2>Портфолио</h2>
         <div class="gallery">
-            <div class="item">
-                <img src="https://via.placeholder.com/150" alt="Работа 1">
+            <div class="item"><a href="https://beeevee.github.io/vx/" target="_blank">GitHub</a>
                 <p>Описание работы 1</p>
             </div>
             <div class="item">
